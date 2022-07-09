@@ -5,7 +5,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on ... Dev Projects
-- 📫 How to reach me ...
+- 🙋‍♂️ All about me is at **[My Website](https://krishan-mohan.herokuapp.com/)**
 
 <!---
 Krishan-mohan/Krishan-mohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,3 +31,8 @@ You can click the Preview link to take a look at your changes.
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
+
+
+## ❤️ Let's get connected:
+
+<a href="www.linkedin.com/in/krishan-mohan-kumar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
