@@ -5,7 +5,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on ... Dev Projects
-- 🙋‍♂️ All about me is at **[My Website](https://krishan-mohan.herokuapp.com/)**
+- 🙋‍♂️ All about me is at **[My Website](https://krishan-mohan.netlify.app/)**
 
 <!---
 Krishan-mohan/Krishan-mohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
