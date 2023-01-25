@@ -35,4 +35,4 @@ You can click the Preview link to take a look at your changes.
 
 ## ❤️ Let's get connected:
 
-<a href="www.linkedin.com/in/krishan-mohan-kumar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+<a href="https://www.linkedin.com/in/krishan-mohan-kumar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
